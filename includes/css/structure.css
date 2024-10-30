@@ -1,0 +1,22 @@
+#search-login-bar #login-form {
+	margin-right: 85px;
+}
+
+#search-login-bar .fbc_connect_button_area {
+	border: none;
+	padding: 0;
+	position: absolute;
+	right: 10px;
+	top: 23px;
+}
+	#search-login-bar .fbc_connect_button_area img {
+		height: 22px !important;
+	}
+	
+	#search-login-bar #fbc_login span, #fbc_profile { display: none; }
+	
+
+	#optionsbar .avatar, #userbar .avatar {
+		float: none !important;
+		margin-right: 0 !important;
+	}
